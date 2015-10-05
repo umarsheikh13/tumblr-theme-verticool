@@ -4,7 +4,7 @@ Verticool is a minimal portfolio theme that allows you to showcase your photogra
 
 #### Photo Posts:
 
-This theme works with photo posts only.
+This theme works best with photo posts, basic styling support has been added for other post types.
 
 #### Ask and Submit:
 
