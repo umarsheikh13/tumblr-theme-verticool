@@ -1,6 +1,6 @@
 # Verticool
 
-Verticool is a minimal portfolio theme that allows you to showcase your photography in a verti"cool" way. It's fully responsive and works on all devices and all the major browsers.
+Verticool is a slideshow theme for visual portfolios and image galleries with succinct captions. Verticool has bright, sweet gradient background options and smart, customisable side vertical buttons.
 
 #### Photo Posts
 
